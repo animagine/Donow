@@ -52,4 +52,6 @@ $("#3PM .description").val(localStorage.getItem("3PM"));
 $("#4PM .description").val(localStorage.getItem("4PM"));
 $("#5PM .description").val(localStorage.getItem("5PM"));
 
+
+// calling the timeTracker function 
 timeTracker();
